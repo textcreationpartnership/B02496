@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The particulars of his Highnes's [sic] speech to the Parlament [sic], in the painted-chamber at Westminster.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02496</idno>
+            <idno type="STC">Wing C7136A</idno>
+            <idno type="STC">ESTC R174327</idno>
+            <idno type="EEBO-CITATION">53981501</idno>
+            <idno type="OCLC">ocm 53981501</idno>
+            <idno type="VID">180191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180191)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The particulars of his Highnes's [sic] speech to the Parlament [sic], in the painted-chamber at Westminster.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Leith? :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Imperfect: stained, print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180191:1" rendition="simple:additions"/>
+            <head>The <hi>PARTICULARS</hi> of His <hi>HIGHNES'S SPEECH TO THE PARLAMENT,</hi> In the Painted-Chamber at WESTMINSTER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is HIGHNES took notice, that the Parla<g ref="char:EOLhyphen"/>ment then met, was ſuch a Congregation as <hi>England</hi> never ſaw, having on their ſhoul<g ref="char:EOLhyphen"/>ders the Intereſt of the three great Nati<g ref="char:EOLhyphen"/>ons; and, which is more, the Intereſt of all the Chriſtian People in the World.</p>
+            <p>He promiſed in what he ſhould ſay, plainneſs and truth; taking notice, That after ſo many changes and turnings as this Nation hath laboured under, to have ſuch day of hope, and ſuch a door of hope opened as this, was ſome moneths ſince above all our thoughts.</p>
+            <p>That it might have been a matter worthy ſuch a Meeting, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have remembred them what occaſioned the riſe and firſt be<g ref="char:EOLhyphen"/>ginning
+<pb n="2" facs="tcp:180191:2"/> of all the toſſings that have been upon theſe Nations, and to have give a <hi>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Providence of God in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to theſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Grounds of the firſt under-taking to oppoſe that uſurpation and tyrannie which was upon us in our Civils and Spirituals: but ſome reaſons diverted him from that, as firſt, To have pro<g ref="char:EOLhyphen"/>ceeded after that manner, would have taken up the whole day for Gods diſpenſations have been ſuch, that as <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſayes i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another caſe, <hi>If I ſhould ſit to coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re more t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can be numbred.</hi> 2. Becauſe the recapitulation of his Pro<g ref="char:EOLhyphen"/>viden<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been largely and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſely held <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Sermo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an alluſion to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ward the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſraelites (the only parallel t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ings wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, that he knew in the World) in bringing them out of <hi>Egyp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> through a Wilderneſſe, towards their place of reſt. 3. Be<g ref="char:EOLunhyphen"/>cauſe the end of that Mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealing, and the remem<g ref="char:EOLunhyphen"/>bring of former tranſactio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s particu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arly, might ſet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he wound freſh a-bleeding; and if this day proves not a day of healing what ſhall we do? But if it be the mind of God (which a<g ref="char:EOLunhyphen"/>lone muſt make it healing) to put it into their hearts, then i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be ſuch a day, as generations to come would bleſs the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for it.</p>
+            <p>That it was neceſſary rather to let them know in what con<g ref="char:EOLunhyphen"/>dition theſe Nations were, when this Government was ere<g ref="char:EOLunhyphen"/>cted, what were the breaches in our Civils and Spirituals, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every mans hand (at leaſt his heart) was againſt another, litt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> appeared tending to cementing. All Gods diſpenſations, ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther his terrible ones when he met us in a way of Judgment a ten years Civill War, and a ſharp one, nor his mercifull di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>penſations did work upon us. That we had our Humours an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Intereſts, and (as he feared) our humours were more the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our intereſts, our paſſions more then our Judgments. Was n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every thing almoſt grown arbitrary? What face was up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Affairs a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Intereſt and Authority of the Magiſtra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hts <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ders of men, whereby diſtinctions ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a Nobleman, a Gentlem<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:180191:2"/> Yeoman; it being a good intereſt of the Nation, and a great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne? Every mans hand was upon his loins, and ſaid, <hi>We ſee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing that bears ſway or rule.</hi> And that ſpirit that brought <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t under that contempt, though it may be comprehended in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery ſhort expreſſion of <hi>Men of Levelling, Principles,</hi> yet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing had a vaſt extention, tending to reduce all the orders and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anks of men to an equality, to make the Tenant of as liberall fortune as his Landlord.</p>
+            <p>His Highneſſe took notice in the next place, of the prodigi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us contempt upon God and Chriſt, and his Ordinances; a ſpi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it viſibly act<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng thoſe things which were foretold by <hi>Peter,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Jude,</hi> and <hi>Timothy,</hi> as the lot and portion of the laſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes, and ſomething worſe then the Antichriſtian ſtate; that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here ſhould be <hi>perilous dayes,</hi> and therefore <hi>perilous,</hi> becauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſhould break all rules, and labour to root out that remain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the Image of God which was left in the nature of fal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en man: And this by men that ſhould have <hi>a form of godli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe, denying, the power of it.</hi> And indeed the character <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereby that ſpirit and principle is deſcribed, is ſo legible and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſible, that he that runs may read it. And he wiſhed that it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere not to be read, or ſeen, and that <hi>the grace of God</hi> might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be <hi>turned into wantonnes,</hi> and Chriſt and the Spirit of God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade a cloak of vile practices.</p>
+            <p>He obſerved, That many would not own theſe things, yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey could tell you, The Magiſtrate hath nothing to do with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atters of Conſcience or Religion, That he is to look to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uter-man, not to meddle with the inner. And ſuch pretenſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns (he ſaid) there were of liberty of the Subject and of Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cience (two as glorious things, and as much to be contended <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or, as any gift God hath given us) That both theſe were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought in to patronize thoſe evils; inſomuch that it was af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rm'd, not to be in the power of the Magiſtrate ſo much as to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rint Bibles, leſt it ſhould ſeem an impoſition on the Conſci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces of men, to receive them from the Magiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rate, as true <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe abominations ſwell'd to that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id to the root of the M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>loniſh.</hi>
+               <pb n="4" facs="tcp:180191:3"/> And as the extremity was great before, that no man though well approved, and having a good teſtimony, migh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preach, if not ordained; ſo now on the other hand, they woul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have Ordination put a nullity upon the Calling. He took no<g ref="char:EOLunhyphen"/>tice of another evill that had more refinedneſſe in it, more co<g ref="char:EOLunhyphen"/>lour for it, and had deceived more people of integrity then t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> former; for few were catcht with the former miſtakes, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch as apoſtatized from their holy profeſſion, ſuch as hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been corrupted in their Conſciences, have been forſaken b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and left to noyſome opinions. But there was anothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing that deceived many well meaning people, whoſe hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are ſincere, and ſuch as (he was perſwaded) belong to Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that is, the <hi>Fift Monarchy mens</hi> pretending to more ſpir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tuality then any other. It is a Notion, which (as he hoped we all honor and wait for, That <hi>Jeſus Chriſt</hi> will have his ti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to ſet up his Reign in our hearts, and to ſubdue that corrup<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on and luſt which reigns more in the world now then ever, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he hoped in due time it ſhall be: But for men to entitle the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelves to be the onely men to govern Nations, and rule Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>doms, and give Laws to the World, to determine of Prope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Liberty, and every thing elſe, needs a great manifeſtation Gods preſence, before wiſe men will ſubmit to it.</p>
+            <p>Many of thoſe he conceived in his very ſoul had good me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ings, and he hoped this Parlament would (as <hi>Jude</hi> ſays, reck<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing up the abominable Apoſtacies of the laſt times) <hi>pluck ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of the fire, and ſave others with fear,</hi> making thoſe peaceable ſpirits, the ſubject of their encouragement, and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing others by that diſcipline, that God hath ordained to refo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſcarriages. The danger of that Spirit being not in the not i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but in its proceeding to a civill tranſgreſſion. When men ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come into ſuch a practice, as to tell us, That liberty and Pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ty are not the badges of that Kingdom, and that in ſtead of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gulating Laws, Laws muſt be ſubverted, and perhaps the J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cial Law impoſed, or ſome fancy in ſtead of it (for that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood and honorable in the Inſtitution, though now by <gap reason="illegible" resp="#PDCC" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> app<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d ſpecially when every ſtone is turned to bri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:180191:3"/> Confuſion. This will be a conſideration worthy of the Magi<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>His Highneſſe proceeded to ſhew, That while theſe things were in the midſt of us, and the Nation rent and torn from one end to the other, Family againſt Family, Parent againſt Child, &amp; nothing in the hearts &amp; minds of men, but <hi>Overturn, overturn, overturn,</hi> a Scripture very much abuſed, &amp; challenged by all men of diſcontented ſpirits. The common Enemy in the mean time ſleeps not; ſwarms of Jeſuits coming over, having their Conſi<g ref="char:EOLhyphen"/>ſtories abroad, to rule all the Affairs of <hi>England,</hi> and the De<g ref="char:EOLhyphen"/>pendencies thereof. In the mean time viſible endeavours are uſed to hinder the Work in <hi>Ireland,</hi> to obſtruct the Work in <hi>Scotland;</hi> Correſpondencies and Intelligences are held to en<g ref="char:EOLhyphen"/>courage and foment the War in theſe places. And withall we were deeply engaged in a War with <hi>Portugal,</hi> whereby our Trade ceaſed, and not only ſo, but a War with <hi>Holland,</hi> which conſumed our Treaſure as much as the Aſſeſſment came to. At the ſame time we fell into a War with <hi>France,</hi> or rather we were in it, and all this fomented by the diviſions amongſt us, which begat a confidence we could not hold out long; and the calculation had not been ill, if the Lord had not been gracious to us.</p>
+            <p>Beſides, ſtrangers encreaſed in the Manufacture, the great ſtaple Commodity of this Nation. In ſuch a heap of confuſion was this poor Nation, and that it might not ſink into a confu<g ref="char:EOLhyphen"/>ſion, from theſe premiſes a Remedy muſt be applyed.</p>
+            <p>A Remedy hath been applyed; <hi>This Government,</hi> a thing that is ſeen and read of all, and which, let men ſay what they will (he could ſpeak with comfort before a Greater then they all, as to his own intention, and let men judge out of the thing it ſelf) is calculated for the Intereſt of the People; for their Intereſt alone, and for their good, without reſpect had to any other Intereſt.</p>
+            <p>He added, That he might with humbleneſſe towards G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and modeſtie before them, ſay ſomething in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it.</p>
+            <pb n="6" facs="tcp:180191:4"/>
+            <p>It hath endeavoured to Reform the Laws, and for that end hath joyned perſons (without reflection upon any) of as great ability and integrity as any other, to conſider how the Laws might be made plain, ſhort, and eaſie, which may in due time be tendered.</p>
+            <p>It hath taken care to put into ſeats of Juſtice, men of the moſt known Integrity and Ability.</p>
+            <p>The Chancery hath been reformed, and (he hoped) to the juſt ſatisfaction of all good men.</p>
+            <p>It hath put a ſtop to that heady way, for every man that will, to make himſelf a Preacher, having endeavoured to ſettle a way for approbation of men of Piety and fitneſſe for the Work, and the buſineſſe committed to truſty perſons both of the Presbyterian and Independent judgement, men of as known ability and integrity, as (he ſuppoſeth) any the Nation hath, and who (he believes) have laboured to approve themſelves to God and their own Conſciences, in approving men to that great Function.</p>
+            <p>It hath taken care to expunge men unfit for that work, who have been the common ſcorn and reproach of that adminiſtration.</p>
+            <p>One thing more, It hath been Inſtrumentall to call a free Parliament; bleſſed be God we ſee here this day a free Parlia<g ref="char:EOLhyphen"/>ment, and that it may continue ſo, he hopes is in the heart of every good man of <hi>England;</hi> and he added, That for his own part, as he had deſired it above his life, ſo to keep it free, he ſhould value it above his life.</p>
+            <p>Having thus inſtanced in the Wars wherein we were plun<g ref="char:EOLhyphen"/>ged, and the little aſſurance from Neighbours abroad, he pro<g ref="char:EOLhyphen"/>ceeded to ſhew that a Peace is made with <hi>Sweden</hi> (wherein an honourable perſon was inſtrumentall) it being of much importance to have a good underſtanding with our Proteſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbours; A Peace is alſo made with the <hi>Dane;</hi> and a Peac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there that is honourable, and to the ſatisfaction of the Mer<g ref="char:EOLunhyphen"/>chants. The <hi>Sound</hi> is open to us, from whence as fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fountain, our Navall proviſions are ſupplyed. That a Peace
+<pb n="7" facs="tcp:180191:4"/> made with the <hi>Dutch</hi> (which is ſo with known in the conſe<g ref="char:EOLhyphen"/>quences of it.) He ſet forth the advantage of a good under<g ref="char:EOLhyphen"/>ſtanding with Proteſtant States. And he begged that it might be in the Parliaments hearts to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealous of the Proteſtant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntereſt abroad, which if ever it be h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to come under a con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of ſuffering, it is now, many of them being baniſhed <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d driven to ſeek refuge among ſtrangers. That a Peace is made with <hi>Portugal</hi> (though it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng long of great come<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment to Trade; and the people that Trade <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he I, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<g ref="char:EOLhyphen"/>dom to enjoy their conſciences without being ſubject to the bloudy Inquiſition. That a Treaty with <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> depending.</p>
+            <p>His Highneſs added, That it might be neceſſary for them to hear a little of the Sea-Affairs, and here took notice of the great expence of the Forces and Fleet; and yet 30000 l. is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow abated of the next three months Aſseſſment.</p>
+            <p>And ſo drawing towards a concluſion, he obſerved, That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he things before mentioned are but entrances and doors of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope; That they are brought to the edge of <hi>Canaan</hi> (into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich many that have gone before could not enter.) That if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he bleſſing and preſence of God go along with them in ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agement of their Affairs, he makes no queſtion but he will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable them to lay the top-ſtone of this work.</p>
+            <p>But this is a maxime not to be deſpiſed; Though Peace be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade, yet it is Intereſt that keeps Peace; and further then that, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eace is not to be truſted.</p>
+            <p>He ſhewed the great end of the calling this Parliament <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as, That the Work of God may go on. That the Ship <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this Commonwealth may be brought into a ſafe Har<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our.</p>
+            <p>He remembred them that they have a great work upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em; <hi>Ireland</hi> to look to; that the beginnings of that Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rnment may be ſetled in terms of Honour, That they had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore them the conſideration of thoſe Forreign States which yet Peace is not made with, who if they ſhall ſee we man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge not our Affairs with prudence as becomes men, will re<g ref="char:EOLhyphen"/>tain
+<pb n="8" facs="tcp:180191:5"/> hopes that we may ſink under the diſadvantages thereof and break into confuſion.</p>
+            <p>He perſwaded them to have a ſweet and gracious, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly underſtanding one of another, and put them in minde <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the councell heard that day in order thereunto.</p>
+            <p>And deſired them for a Concluſion, to believe that ſpake not to them as one that would be a Lord over the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but as one that was reſolved to be a fellow-ſervant w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them to the Intereſt of this great Affair; and ſo wiſhed the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to repair to their Houſe, and exerciſe their own Liberty the choice of their Speaker.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
